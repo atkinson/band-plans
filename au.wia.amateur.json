@@ -1,0 +1,657 @@
+{
+    "bands": [
+        {
+            "band": "2200 metre",
+            "licensees": "Advanced",
+            "frequency_range": "135.7 - 137.8 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "135.7 - 137.4 kHz"
+                },
+                {
+                    "mode": "International DX window",
+                    "frequency_range": "135.7 - 135.8 kHz"
+                },
+                {
+                    "mode": "Test transmissions and test beacons",
+                    "frequency_range": "135.8 - 136.0 kHz"
+                },
+                {
+                    "mode": "Normal CW operation",
+                    "frequency_range": "136.0 - 137.4 kHz"
+                },
+                {
+                    "mode": "Narrow band digital modes (e.g. PSK)",
+                    "frequency_range": "137.4 - 137.6 kHz"
+                },
+                {
+                    "mode": "Slow CW modes (e.g. QRSS)",
+                    "frequency_range": "137.6 - 137.8 kHz"
+                }
+            ]
+        },
+        {
+            "band": "630 metre",
+            "licensees": "Advanced",
+            "frequency_range": "472.0 - 479.0 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "472.0 - 479.0 kHz"
+                },
+                {
+                    "mode": "Recommended centre frequency for international DX",
+                    "frequency_range": "472.5 kHz"
+                },
+                {
+                    "mode": "Narrow band digital data modes",
+                    "frequency_range": "474.0 - 479.0 kHz"
+                },
+                {
+                    "mode": "WSPR",
+                    "frequency_range": "475.6 - 475.8 kHz"
+                },
+                {
+                    "mode": "ROS",
+                    "frequency_range": "477.4 - 477.6 kHz"
+                },
+                {
+                    "mode": "QRSS",
+                    "frequency_range": "477.175 - 477.185 kHz"
+                },
+                {
+                    "mode": "WSJTX",
+                    "frequency_range": "478.0 - 478.5 kHz"
+                },
+                {
+                    "mode": "Opera",
+                    "frequency_range": "478.5 - 478.8 kHz"
+                }
+            ]
+        },
+        {
+            "band": "160 metre",
+            "licensees": "Advanced",
+            "frequency_range": "1800 - 1875 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "1800 - 1875 kHz"
+                },
+                {
+                    "mode": "Digital data modes",
+                    "frequency_range": "1800 - 1810 kHz"
+                },
+                {
+                    "mode": "Digital data modes - Region III and international FT8",
+                    "frequency_range": "1830 - 1843 kHz"
+                },
+                {
+                    "mode": "Digital data modes - Region I DX window",
+                    "frequency_range": "1838 - 1843 kHz"
+                },
+                {
+                    "mode": "Digital data modes - Region II DX window",
+                    "frequency_range": "1839 - 1843 kHz"
+                },
+                {
+                    "mode": "SSB / AM",
+                    "frequency_range": "1843 - 1875 kHz"
+                }
+            ]
+        },
+        {
+            "band": "80 metre",
+            "licensees": "All licence classes",
+            "frequency_range": "3500 - 3800 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "3.500 - 3.700 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "3.535 - 3.570 kHz"
+                },
+                {
+                    "mode": "Digital data modes",
+                    "frequency_range": "3.570 - 3.600 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "3.600 - 3.700 kHz"
+                },
+                {
+                    "mode": "WICEN frequency",
+                    "frequency_range": "3.600 kHz"
+                },
+                {
+                    "mode": "IARU Region III emergency centre frequency",
+                    "frequency_range": "3.600 kHz"
+                },
+                {
+                    "mode": "DX Window",
+                    "frequency_range": "3.776 - 3.800 kHz"
+                }
+            ]
+        },
+        {
+            "band": "60 metre",
+            "licensees": "Advanced",
+            "frequency_range": "5351.5 - 5366.5 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "5351.5 - 5354.0 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "5354.0 - 5366.5 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "5354.0 - 5366.5 kHz"
+                }
+            ]
+        },
+        {
+            "band": "40 metre",
+            "licensees": "All licence classes",
+            "frequency_range": "7000 - 7300 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "7000 - 7040 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "7040 - 7060 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "7060 - 7100 kHz"
+                },
+                {
+                    "mode": "WICEN Frequency",
+                    "frequency_range": "7074 kHz"
+                }
+            ]
+        },
+        {
+            "band": "30 metre",
+            "licensees": "Advanced",
+            "frequency_range": "10100 - 10150 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "10100 - 10120 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "10120 - 10135 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "10135 - 10150 kHz"
+                }
+            ]
+        },
+        {
+            "band": "20 metre",
+            "licensees": "Advanced & Standard",
+            "frequency_range": "14000 - 14350 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "14000 - 14070 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "14070 - 14112 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "14112 - 14350 kHz"
+                },
+                {
+                    "mode": "SSTV calling frequency",
+                    "frequency_range": "14230 kHz"
+                },
+                {
+                    "mode": "FAX calling frequency",
+                    "frequency_range": "14250 kHz"
+                }
+            ]
+        },
+        {
+            "band": "17 metre",
+            "licensees": "Advanced",
+            "frequency_range": "18068 - 18168 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "18068 - 18095 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "18095 - 18120 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "18120 - 18168 kHz"
+                }
+            ]
+        },
+        {
+            "band": "15 metre",
+            "licensees": "All licence classes",
+            "frequency_range": "21000 - 21450 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "21000 - 21070 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "21070 - 21150 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "21150 - 21450 kHz"
+                }
+            ]
+        },
+        {
+            "band": "12 metre",
+            "licensees": "Advanced",
+            "frequency_range": "24890 - 24990 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "24890 - 24915 kHz"
+                },
+                {
+                    "mode": "Digital Data Modes",
+                    "frequency_range": "24915 - 24940 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "24940 - 24990 kHz"
+                }
+            ]
+        },
+        {
+            "band": "10 metre",
+            "licensees": "All licence classes",
+            "frequency_range": "28000 - 29700 kHz",
+            "modes": [
+                {
+                    "mode": "CW AND DIGITAL MODES",
+                    "frequency_range": "28000 - 28200 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "28300 - 29100 kHz"
+                },
+                {
+                    "mode": "FM SIMPLEX",
+                    "frequency_range": "29110 - 29290 kHz"
+                },
+                {
+                    "mode": "AMATEUR SATELLITES",
+                    "frequency_range": "29300 - 29510 kHz"
+                },
+                {
+                    "mode": "FM REPEATERS AND SIMPLEX",
+                    "frequency_range": "29510 - 29700 kHz"
+                }
+            ]
+        },
+        {
+            "band": "6 metre",
+            "licensees": "Advanced & Standard",
+            "frequency_range": "50000 - 54000 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "50000 - 50100 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "50100 - 50200 kHz"
+                },
+                {
+                    "mode": "FM",
+                    "frequency_range": "50200 - 50400 kHz"
+                },
+                {
+                    "mode": "Narrow Band Modes",
+                    "frequency_range": "50400 - 50800 kHz"
+                },
+                {
+                    "mode": "All Modes",
+                    "frequency_range": "50800 - 54000 kHz"
+                }
+            ]
+        },
+        {
+            "band": "2 metre",
+            "licensees": "All licence classes",
+            "frequency_range": "144000 - 148000 kHz",
+            "modes": [
+                {
+                    "mode": "CW",
+                    "frequency_range": "144000 - 144025 kHz"
+                },
+                {
+                    "mode": "SSB",
+                    "frequency_range": "144100 - 144400 kHz"
+                },
+                {
+                    "mode": "FM",
+                    "frequency_range": "144700 - 145400 kHz"
+                },
+                {
+                    "mode": "Narrow Band Modes",
+                    "frequency_range": "144400 - 144700 kHz"
+                },
+                {
+                    "mode": "Digital Simplex",
+                    "frequency_range": "144700 - 144900 kHz"
+                },
+                {
+                    "mode": "Repeater Outputs",
+                    "frequency_range": "144925 - 145050 kHz"
+                },
+                {
+                    "mode": "Repeater Inputs",
+                    "frequency_range": "145400 - 145775 kHz"
+                },
+                {
+                    "mode": "FM and Digital Simplex",
+                    "frequency_range": "147400 - 147600 kHz"
+                },
+                {
+                    "mode": "Repeater Inputs",
+                    "frequency_range": "147612 - 147975 kHz"
+                }
+            ]
+        },
+        {
+            "band": "70 cm",
+            "licensees": "All licence classes",
+            "frequency_range": "420 - 450 MHz",
+            "modes": [
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "420 - 450 MHz"
+                },
+                {
+                    "mode": "Fixed, Mobile Primary Service",
+                    "frequency_range": "420 - 450 MHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "430 - 450 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite Permitted on non-interference basis",
+                    "frequency_range": "435 - 438 MHz"
+                }
+            ]
+        },
+        {
+            "band": "23 cm",
+            "licensees": "Advanced and Standard",
+            "frequency_range": "1240 - 1300 MHz",
+            "modes": [
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "1240 - 1260 MHz"
+                },
+                {
+                    "mode": "Radionavigation - Satellite Primary Service",
+                    "frequency_range": "1240 - 1260 MHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "1240 - 1300 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite (uplinks) Permitted on non-interference basis",
+                    "frequency_range": "1260 - 1270 MHz"
+                }
+            ]
+        },
+        {
+            "band": "13 cm",
+            "licensees": "Advanced",
+            "frequency_range": "2300 - 2450 MHz",
+            "modes": [
+                {
+                    "mode": "Fixed, Mobile Primary Service",
+                    "frequency_range": "2300 - 2450 MHz"
+                },
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "2300 - 2450 MHz"
+                },
+                {
+                    "mode": "Industrial / Scientific / Medical",
+                    "frequency_range": "2400 - 2450 MHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "2300 - 2302 MHz, 2400 - 2450 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite Permitted on non-interference basis",
+                    "frequency_range": "2400 - 2450 MHz"
+                }
+            ]
+        },
+        {
+            "band": "9 cm",
+            "licensees": "Advanced",
+            "frequency_range": "3300 - 3600 MHz",
+            "modes": [
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "3300 - 3600 MHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "3300 - 3600 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite Permitted on non-interference basis",
+                    "frequency_range": "3400 - 3410 MHz"
+                },
+                {
+                    "mode": "Fixed Satellite (Space to Earth) Secondary Service",
+                    "frequency_range": "3400 - 3600 MHz"
+                },
+                {
+                    "mode": "Fixed, Mobile Secondary Service",
+                    "frequency_range": "3400 - 3600 MHz"
+                }
+            ]
+        },
+        {
+            "band": "6 cm",
+            "licensees": "Advanced & Standard",
+            "frequency_range": "5650 - 5850 MHz",
+            "modes": [
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "5650 - 5850 MHz"
+                },
+                {
+                    "mode": "Space Research Secondary Service",
+                    "frequency_range": "5650 - 5725 MHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "5650 - 5850 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite (uplinks) Permitted on non-interference basis",
+                    "frequency_range": "5650 - 5670 MHz"
+                },
+                {
+                    "mode": "Amateur Satellite (downlinks) Secondary Service",
+                    "frequency_range": "5830 - 5850 MHz"
+                }
+            ]
+        },
+        {
+            "band": "3 cm",
+            "licensees": "Advanced",
+            "frequency_range": "10.000 - 10.500 GHz",
+            "modes": [
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "10.000 - 10.500 GHz"
+                },
+                {
+                    "mode": "Meteorological Satellite Secondary Service",
+                    "frequency_range": "10.000 - 10.025 GHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "10.000 - 10.500 GHz"
+                },
+                {
+                    "mode": "Amateur Satellite Secondary Service",
+                    "frequency_range": "10.450 - 10.500 GHz"
+                }
+            ]
+        },
+        {
+            "band": "12 mm",
+            "licensees": "Advanced",
+            "frequency_range": "24.000 - 24.250 GHz",
+            "modes": [
+                {
+                    "mode": "Amateur Primary Service",
+                    "frequency_range": "24.000 - 24.050 GHz"
+                },
+                {
+                    "mode": "Amateur Satellite Primary Service",
+                    "frequency_range": "24.000 - 24.050 GHz"
+                },
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "24.050 - 24.250 GHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "24.050 - 24.250 GHz"
+                },
+                {
+                    "mode": "Earth Exploration Satellite Secondary Service",
+                    "frequency_range": "24.050 - 24.250 GHz"
+                }
+            ]
+        },
+        {
+            "band": "6 mm",
+            "licensees": "Advanced",
+            "frequency_range": "47.000 - 47.200 GHz",
+            "modes": [
+                {
+                    "mode": "Amateur Primary Service",
+                    "frequency_range": "47.000 - 47.200 GHz"
+                },
+                {
+                    "mode": "Amateur Satellite Primary Service",
+                    "frequency_range": "47.000 - 47.200 GHz"
+                }
+            ]
+        },
+        {
+            "band": "4 mm",
+            "licensees": "Advanced",
+            "frequency_range": "76.000 - 81.000 GHz",
+            "modes": [
+                {
+                    "mode": "Radio Astronomy & Radiolocation Primary Services",
+                    "frequency_range": "76.000 - 77.500 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Secondary Services",
+                    "frequency_range": "76.000 - 77.500 GHz"
+                },
+                {
+                    "mode": "Space Research Secondary Service",
+                    "frequency_range": "76.000 - 81.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Primary Services",
+                    "frequency_range": "77.500 - 78.000 GHz"
+                },
+                {
+                    "mode": "Radio Astronomy Secondary Service",
+                    "frequency_range": "77.500 - 79.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Secondary Services",
+                    "frequency_range": "78.000 - 81.000 GHz"
+                },
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "78.000 - 81.000 GHz"
+                },
+                {
+                    "mode": "Radio Astronomy Primary Service",
+                    "frequency_range": "79.000 - 81.000 GHz"
+                }
+            ]
+        },
+        {
+            "band": "Higher bands",
+            "licensees": "Advanced",
+            "frequency_range": "122.250 - 250.000 GHz",
+            "modes": [
+                {
+                    "mode": "Fixed, Mobile, Space Research, Earth Exploration Satellite, Inter-Satellite Primary Services",
+                    "frequency_range": "122.250 - 123.000 GHz"
+                },
+                {
+                    "mode": "Amateur Secondary Service",
+                    "frequency_range": "122.250 - 123.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Primary Services",
+                    "frequency_range": "134.000 - 136.000 GHz"
+                },
+                {
+                    "mode": "Radiolocation Secondary Service",
+                    "frequency_range": "134.000 - 136.000 GHz"
+                },
+                {
+                    "mode": "Radio Astronomy, Radiolocation Primary Services",
+                    "frequency_range": "136.000 - 141.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Secondary Services",
+                    "frequency_range": "136.000 - 141.000 GHz"
+                },
+                {
+                    "mode": "Radiolocation Primary Service",
+                    "frequency_range": "241.000 - 248.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Secondary Service",
+                    "frequency_range": "241.000 - 248.000 GHz"
+                },
+                {
+                    "mode": "Amateur & Amateur Satellite Primary Service",
+                    "frequency_range": "248.000 - 250.000 GHz"
+                }
+            ]
+        }
+    ]
+}
+
